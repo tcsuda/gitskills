@@ -1,5 +1,5 @@
 # all
-.history
-.pyc
-README
-.json
+*.history
+*.pyc
+/README
+*.json
